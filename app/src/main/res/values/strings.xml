@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Baking App</string>
+
+    <string name="error_no_internet">No internet connection.</string>
+    <string name="title_activity_recipe_detail">RecipeDetail</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="servings">Servings:</string>
+
+    <string name="ingredients">Ingredients:</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+    <string name="add_a_widget">Add to widget</string>
+</resources>
