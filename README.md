@@ -1,6 +1,5 @@
 # BakingApp
-Created an app to view video recipes that incorporated media loading, verifying user interfaces with UI tests, integrated third party libraries and provided a complete UX with home screen widget.
-the nanodegree's third assignment
+BakingApp  is for viewing video recipes
 
 <p align="center">
   <img src="http://amerouane.com/wp-content/uploads/2018/04/device-2018-04-22-214926.jpg" width="350"/>
@@ -9,7 +8,7 @@ the nanodegree's third assignment
   </br>
   <img src="http://amerouane.com/wp-content/uploads/2018/04/device-2018-04-22-215110.jpg" width="350"/>
   </br>
-  <img src="http://amerouane.com/wp-content/uploads/2018/04/device-2018-04-22-215343.jpg" width="350"/>
+  <img src="http://amerouane.com/wp-content/uploads/2018/04/device-2018-04-22-215343.jpg" width="500"/>
 </p>
 
 
