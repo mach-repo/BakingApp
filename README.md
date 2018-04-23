@@ -7,7 +7,7 @@ BakingApp  is for viewing video recipes
   </br>
   <img src="http://amerouane.com/wp-content/uploads/2018/04/device-2018-04-22-215110.jpg" width="350"/>
   </br>
-  <img src="http://amerouane.com/wp-content/uploads/2018/04/device-2018-04-22-215343.jpg" width="500"/>
+  <img src="http://amerouane.com/wp-content/uploads/2018/04/device-2018-04-22-215343.jpg" width="700"/>
 </p>
 
 
